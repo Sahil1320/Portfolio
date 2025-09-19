@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://sahil1320.github.io/Portfolio/](https://sahil1320.github.io/Portfolio/)
 
 - 📫 How to reach me **sujalsah256@gmail.com**
-- Link to preview - <a href="https://sahil1320.github.io/Portfolio/"</a>
+- Link to preview Portfolio :- href="https://sahil1320.github.io/Portfolio/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
